@@ -3,7 +3,7 @@
 ## Synopsis
 This is prototype of file sharing website made with js and socket.io
 
-<p><img src="https://github.com/cepheus-king/file-sharing/public/image/logo.png"></p>
+<p><img src="https://github.com/cepheus-king/File-Sharing/public/image/logo.png"></p>
 
 ## Table of Contents
 * [Environment](#environment)

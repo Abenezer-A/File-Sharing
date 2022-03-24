@@ -17,6 +17,11 @@ This is prototype of file sharing website made with js and socket.io
 ## Project Name
 ET-File transferring prototype project.
 
+## Introduction
+* this is a simple file transfer prototype.
+     * https://cepheus-king.github.io -- project blog article.
+     * www.linkedin.com/in/abenezer-alemayehu-98007a235 -- linkedin.com
+
 ## Installation
 * Install npm if you haven't (https://nodejs.org/en/download/).
 

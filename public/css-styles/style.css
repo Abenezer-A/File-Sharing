@@ -1,0 +1,121 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: "magneto", bold;
+}
+.screen {
+	display: none;
+}
+.screen.active {
+	display: block;
+}
+
+.join-screen .form {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	padding: 70px;
+}
+.join-screen .form .form-input {
+	margin: 30px 0px;
+}
+.join-screen .form h2 {
+	font-size: 40px;
+	font-family: "snap itc", regular;
+	margin-bottom: 20px;
+	line-height:45px;
+}
+.join-screen .form button {
+    font-family: "bauhaus 93", regular;
+	background: #Ffa500;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	outline: none;
+	font-size: 16px;
+	font-weight: 500;
+	border-radius: 40px;
+}
+.join-screen .form #join-id b {
+	color: #222;
+	display: block;
+	margin-top: 20px;
+}
+.join-screen .form #join-id span {
+	display: inline-block;
+	font-size: 25px;
+	font-family: monospace;
+	color: #111;
+	padding: 10px;
+	border: 1px solid #111;
+	margin-top: 5px;
+}
+.join-screen .form .form-input label {
+	color: #222;
+	font-size: 18px;
+}
+.join-screen .form .form-input input {
+	display: block;
+	margin:10px 0px;
+	width: 100%;
+	max-width: 200px;
+	border: 1px solid #111;
+	color: #111;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.fs-screen {
+	padding: 20px;
+}
+.fs-screen .file-input {
+	width: 100%;
+}
+.fs-screen .file-input label {
+	background-color: #ff7f50;
+	height: 300px;
+    border-radius: 25px;
+    font-size: 50px;
+    box-shadow: 0px 20px 20px #0000002e;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}
+.fs-screen .file-input input {
+	display: none;
+}
+.fs-screen .files-list {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	gap: 40px;
+	flex-wrap: wrap;
+}
+.fs-screen .files-list .title {
+	width: 100%;
+	font-size: 40px;
+	margin: 20px 0px;
+}
+.fs-screen .files-list .item {
+	width: 100%;
+	min-width: 200px;
+	border: 1px solid #eee;
+	box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.05);
+}
+.fs-screen .files-list .item .progress {
+    margin-left: 1000px;
+	text-align: center;
+	font-size: 40px;
+	color: #222;
+	font-family: "Montserrat";
+	margin-top: -40px;
+	margin-bottom: -40px;
+
+}
+.fs-screen .files-list .item .filename {
+	padding-left: 10px;
+	font-size: 30px;
+}

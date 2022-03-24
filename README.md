@@ -1,4 +1,4 @@
-# FILE SHARING APP.
+# FILE SHARING APP
 
 ## Synopsis
 This is prototype of file sharing website made with js and socket.io
@@ -6,21 +6,19 @@ This is prototype of file sharing website made with js and socket.io
 <p><img src="https://github.com/cepheus-king/File-Sharing/blob/main/public/image/logo.png"></p>
 
 ## Table of Contents
-* [Environment](#environment)
-* [Installation](#installation)
-* [File Descriptions](#file-descriptions)
-* [Usage](#usage)
-* [Examples of use](#examples-of-use)
-* [Bugs](#bugs)
-* [Authors](#authors)
-* [License](#license)
+* [Project Name]
+* [Introduction]
+* [Installation]
+* [Usage]
+* [Contributing]
+* [Related projects]
+* [License]
 
-## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+## Project Name
+ET-File transferring prototype project.
 
 ## Installation
-* Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+* Install npm if you haven't (https://nodejs.org/en/download/).
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 

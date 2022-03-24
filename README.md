@@ -1,9 +1,9 @@
-# AirBnB Clone V.3 - RESTful API
+# FILE SHARING APP.
 
 ## Synopsis
-This is the 3rd version of our AirBnB clone project. We will be using a REST API and Flask
+This is prototype of file sharing website made with js and socket.io
 
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" alt="step2"></p>
+<p><img src="https://github.com/cepheus-king/file-sharing/image/logo.png"></p>
 
 ## Table of Contents
 * [Environment](#environment)

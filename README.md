@@ -37,6 +37,7 @@ ET-File transferring prototype project.
 
 
 4 - after installing `edit package.json file test part to start: node server.js`.
+
 5 - `run npm start` by cmd.
 6 - `open browser and type localhost:8080/main.html`.
 

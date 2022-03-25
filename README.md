@@ -39,9 +39,10 @@ ET-File transferring prototype project.
 ![image](https://user-images.githubusercontent.com/84628709/160130260-dc3b2b0c-9520-478f-90dd-a2039bc7b147.png)
 
 
-4 - after installing `edit package.json file test part to start: node server.js`.
+4 - `npm start`
 
-5 - `run npm start` by cmd.
+![image](https://user-images.githubusercontent.com/84628709/160131634-470180dc-ec7a-4ae4-a676-56e785792f1d.png)
+
 6 - `open browser and type localhost:8080/main.html`.
 
 ## Contributing

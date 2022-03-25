@@ -26,16 +26,16 @@ ET-File transferring prototype project.
 * Install npm if you haven't (https://nodejs.org/en/download/).
 
 ## Usage
-1 - `open the downloaded folder.`
-2 - `open cmd as admin.`
-3 - `npm install express socket.io --save.`
-4 - after installing `edit package.json file test part to start: node server.js`
+1 - `open the downloaded folder.`.
+2 - `open cmd as admin.`.
+3 - `npm install express socket.io --save.`.
+4 - after installing `edit package.json file test part to start: node server.js`.
 5 - `run npm start` by cmd.
-6 - `open browser and type localhost:8080/main.html`
+6 - `open browser and type localhost:8080/main.html`.
 
 ## Contributing
-'download.js' from `dandavis`.
-* other by `me` and `fs-share`.
+* 'download.js' from `dandavis`.
+*  other by `me` and `fs-share`.
 
 ## related projects
 * `ez-share`.

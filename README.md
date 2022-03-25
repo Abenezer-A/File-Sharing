@@ -28,7 +28,9 @@ ET-File transferring prototype project.
 ## Usage
 1 - `open the downloaded folder`.
 2 - `right click and choose window terminal .`.
-`![image](https://user-images.githubusercontent.com/84628709/160129015-17ffc281-3405-4d3c-aecc-0b9331555c77.png)`
+
+
+![image](https://user-images.githubusercontent.com/84628709/160129015-17ffc281-3405-4d3c-aecc-0b9331555c77.png)
 3 - `npm install express socket.io --save.`.
 4 - after installing `edit package.json file test part to start: node server.js`.
 5 - `run npm start` by cmd.

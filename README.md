@@ -27,6 +27,7 @@ ET-File transferring prototype project.
 
 ## Usage
 1 - `open the downloaded folder`.
+
 ![image](https://user-images.githubusercontent.com/84628709/160131089-989a0e08-e9b1-4fd6-a0e8-532278360bce.png)
 
 2 - `right click and choose window terminal .`.

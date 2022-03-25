@@ -45,6 +45,9 @@ ET-File transferring prototype project.
 
 6 - `open browser and type localhost:8080/main.html`.
 
+![image](https://user-images.githubusercontent.com/84628709/160131993-27f744df-a148-4625-aa35-5937fb73e593.png)
+
+
 ## Contributing
 * 'download.js' from `dandavis`.
 *  other by `me` and `fs-share`.

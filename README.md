@@ -31,7 +31,10 @@ ET-File transferring prototype project.
 
 
 ![image](https://user-images.githubusercontent.com/84628709/160129015-17ffc281-3405-4d3c-aecc-0b9331555c77.png)
+
 3 - `npm install express socket.io --save.`.
+![image](https://user-images.githubusercontent.com/84628709/160129941-bcf6f141-85d6-4910-8ef2-7335cfdca8d7.png)
+
 4 - after installing `edit package.json file test part to start: node server.js`.
 5 - `run npm start` by cmd.
 6 - `open browser and type localhost:8080/main.html`.

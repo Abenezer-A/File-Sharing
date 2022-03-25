@@ -58,3 +58,4 @@ ET-File transferring prototype project.
 
 ## Licensing
 
+licensing under apache
